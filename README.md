@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="#-tecnologias / technologies">Tecnologias / Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias/technologies">Tecnologias/Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -17,7 +17,7 @@
 <br>
 
 
-## 🚀 Tecnologias / Technologies
+## 🚀 Tecnologias/Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
