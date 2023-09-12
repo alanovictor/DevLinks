@@ -32,8 +32,8 @@ This project was developed with the following technologies:
 DevLinks is a link aggregator to use as an online business card.<br>
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Access the finished project, online](https://alanovictor.github.io/DevLinks/)<br>
-- [Acesse o projeto finalizado, online](https://alanovictor.github.io/DevLinks/)
+- [Access the finished project online](https://alanovictor.github.io/DevLinks/)<br>
+- [Acesse o projeto finalizado online](https://alanovictor.github.io/DevLinks/)
 
 
 ## 🔖 Layout
@@ -43,6 +43,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## :memo: License-Licença
 
+This project is under the MIT license.<br>
 Esse projeto está sob a licença MIT.
 
 ---
